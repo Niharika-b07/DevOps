@@ -1,1 +1,1 @@
-This repository consists of rsimple egistration form
+This repository consists of simple registration form
