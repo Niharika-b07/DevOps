@@ -8,3 +8,5 @@ Currently learning: Spring Boot, MongoDB, and GitHub Actions-
 
 ## 📫 Connect with Me- ✉️ Email: niharika@example.com
 ![Static Badge](https://img.shields.io/badge/RegistrationForm-ED8B00)
+<img width="388" height="567" alt="image" src="https://github.com/user-attachments/assets/a90211cb-e6ab-4ce4-b49d-7c34e8a60bf3" />
+![Uploading image.png…]()
