@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event Registration Form</title>
+<style>
+body{
+    font-family:Arial;
+    background:grey;
+}
+form{
+    width:350px;
+    margin:50px auto;
+    padding:20px;
+    background:skyblue;
+    border:1px solid #ccc;
+}
+h2{
+    text-align:center;
+}
+input,button{
+    width:100%;
+    padding:8px;
+    margin:8px 0;
+}
+button{
+    background:green;
+    color:white;
+    border:none;
+}
+</style>
+</head>
+<body>
+
+<form>
+<h2>Event Registration Form</h2>
+
+<label>First Name:</label>
+<input type="text" placeholder="Enter First Name" required>
+
+<label>Last Name:</label>
+<input type="text" placeholder="Enter Last Name" required>
+
+<label>Roll No:</label>
+<input type="text" placeholder="Enter Roll Number" required>
+
+<label>Email:</label>
+<input type="email" placeholder="Enter Email" required>
+
+<label>Phone Number:</label>
+<input type="tel" placeholder="Enter Phone Number" required>
+
+<button>Register</button>
+
+</form>
+
+<script>
+function msg() {
+    alert("Thank you for registering!");
+    return true;
+}
+</script>
+
+</body>
+</html>
